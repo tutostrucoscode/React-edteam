@@ -11,7 +11,7 @@ const Curso = ({ title, image, price, profesor }) => (
         <div className="card-body">
           <h3 className="card-title text-center">{title}</h3>
           <h6 className="text-center">{`${profesor}`}</h6>
-          <button type="button" class="btn btn-outline-success mx-auto d-block">
+          <button type="button" className="btn btn-outline-success mx-auto d-block">
             {`$ ${price} USD`}
           </button>
         </div>
