@@ -1,2 +1,4 @@
 # curso-react-edteam
- curso de ReactJS de EdTeam
+ReactJS de EdTeam
+
+Aplicativo de Pagina de Cursos
